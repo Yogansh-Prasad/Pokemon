@@ -7,7 +7,7 @@ int main() {
     cout << "Enter your name: ";
     cin >> player_name;
 
-    cout << "Great Start " << player_name << ", Welcome to your journey ! " << endl;
+    cout << "Great Start " << player_name << ", Welcome to your Pokemon journey ! " << endl;
 
     return 0;
 }
